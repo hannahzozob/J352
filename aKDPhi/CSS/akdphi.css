@@ -1,0 +1,77 @@
+/* THIS IS MY CSS PAGE FOR THE AKDPHI ARTICLE */
+
+
+h1 {
+	font-weight: 800;
+  color: whitesmoke;
+  font-size: 2.7rem;
+  font-family: 'Arimo'
+}
+
+h2 {
+  color: #f4f4f4;
+font-size: 1.3rem;}
+
+h3 {
+	font-weight: 700;
+}
+
+p {
+	font-size: 1.35rem;;
+	padding: 10px 10px 10px 10px;
+	align-content: center;
+}
+
+.calloutStyle {
+	background-color: black;
+color: #fff;
+font-size: 1.3rem;
+padding-bottom: 30px;
+padding-top: 10px;
+padding-left:  25px;
+padding-right: 25px;
+height: 100px;
+}
+
+.disclaimer {
+  background-color: black;
+  text-align: center;
+  align-content: center;
+  padding: 10px 20px 10px 20px;
+}
+
+.cell {width: 90%;
+margin-left: 90px;
+}
+
+.container {display: grid;
+	grid-template-columns: 1fr 1fr;
+	margin-left: 100px
+
+}
+
+.callout {
+	text-align: center;
+font-size: 1.5rem;
+background-color: black;
+color: whitesmoke;
+border-radius: 10px;
+padding-top: 2px;
+padding-bottom: 2px;
+padding-right: 5px;
+padding-left: 5px;
+}
+
+.bigimage {
+	width: 600;
+	height: 750;
+}
+
+body { width: 1250px;
+}
+
+.mainHeader {
+	background-color: black;
+  padding: 100px 100px 100px 100px;
+  width: 540px;
+}
